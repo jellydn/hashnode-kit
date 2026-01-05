@@ -9,7 +9,7 @@ tags: ai, amp, agents
 
 In this entry of my **AI DX/Tools** series, I want to discuss [**Amp**](https://ampcode.com/manual)**:** an AI coding agent designed for developers who spend most of their time in the terminal and editor, rather than in chat windows.
 
-![https://s.itman.fyi/l73MxkS1](https://media.cleanshot.cloud/media/145969/u2JLCKjC1p9VpqVaFzmfy46pSrto2aDnSSfMb68y.jpeg?Expires=1767616220&Signature=XkCooD2McREADGbhe1FIiSleiVcN3JmncPPHXAtFjSCshkNYjA2F3ud1UI62jidcys84LcGxHOkKSTuKXTPqRlj6bouvoIudOqMqwLIHZXH4of4NTz0xzyhfh2b9ihUzIZg3b2VCElGJUIbPRtyrfqrGSqgQq2-D7kJQq2MrRbXrJRpzANaua87wL2s9WYRWQdqR01Znj6P~r9gCGp~uyR1kzeRX5dsVYOPYbfFMIjKHw11BPfY0iraAx3oY1ErBqK-YXj2neuletuOIeLw04zDMyS96g4Eln1ppvJGvgtNbc70KklZWTT8z4IKwTMH6UJ~ikMxGXnWXkA85fflM9g__&Key-Pair-Id=K269JMAT9ZF4GZ align="left")
+![](https://media.cleanshot.cloud/media/145969/u2JLCKjC1p9VpqVaFzmfy46pSrto2aDnSSfMb68y.jpeg?Expires=1767640855&Signature=QFNwsjyYmuPkGwA5xgydwR27Kg7LQZnLyHq~DbGISm7fuqVM2F06Hynfg2PC68xTuzXfsuc7T~JEDZHmvgv~dU-lZtFELfoEz-bWaEGiZsTQGCdJTjILV7RCQgyeciMXFnoaZr5YlJ1DAKHfrnGBoLIKgMPu1Xzj2HSwM-Uimiu6DE3zDHtbrBkWMwMNhTvKoQWQC6Thc-YHZB8MkzExW-VOCbokVwomPIHRiV-iTSZKGIEGJ1MvWeQH0HJp7IBeHBEkUW4oCbalEuWIw9fEdjhN~1mc1nWNet5eDWamkCdorqjZ2~aD14ml5fCpc4uRUxmkOvMG0ADrQOy1niuhiw__&Key-Pair-Id=K269JMAT9ZF4GZ align="left")
 
 Amp is free to try, works locally, and integrates directly with your existing workflow. It doesn’t try to impress with flashy UI or novelty features. Instead, it focuses on making AI *usable* for real engineering work.
 
@@ -44,9 +44,9 @@ Instead of asking *“Which model should I use?”*, you ask *“How complex is 
 
 Anyone who uses AI seriously eventually runs into context problems. Threads get noisy. Errors pile up. Important details fall out of scope.
 
-Amp’s **/handoff** command is one of its most practical ideas. It allows you to intentionally move work from one thread into a new one, carrying only the relevant context.  
+Amp’s **/handoff** command is one of its most practical ideas. It allows you to intentionally move work from one thread into a new one, carrying only the relevant context.
 
-![https://s.itman.fyi/8N2bVnx7](https://media.cleanshot.cloud/media/145969/L4w48nn2hwYqhXHhAlVexkiJ2SXh5LJJ0hicNED5.jpeg?Expires=1767616274&Signature=D2nbYDoLHwWEFmSutK-vb1jj075STvFRy668WF~pq-CwUJo5-nJMwSn0nowlH950H5rcaNtp1FGEAyxVlkS1UVLY9~jIQ00n1eJNNMJqrra9oA9SCckKSuViF1sVo4npMjtJXVGSslBE6UIPfKilKcZaCwTy0MBCkuhXolXyQrGTH11Gw8dUmQFGA4a6HxtnNzriorYu-pPDQChwAskWMONHKgH-ZU6wylkKZZz5sx3VIWhRrBW4PV1k25UqXIWvy4O3FnEtpSIZyXyBmW8jXJEA6rO-h5bgR20zxd8i5YpilzmHxTvBPJC6azxXVJv7fb8mXLdSkXX5nJ6OjzkQng__&Key-Pair-Id=K269JMAT9ZF4GZ align="left")
+![](https://media.cleanshot.cloud/media/145969/L4w48nn2hwYqhXHhAlVexkiJ2SXh5LJJ0hicNED5.jpeg?Expires=1767640913&Signature=RmRpsLLZpnwETBoAAa10v4DGrxtWNL5~5uPtoThJhAo-7uuJ11FqxI0lmRYYmUjTn81F8dha83oYU9AKC5CtGPX3SqlZZFtHsG7VeIXdJKVHLqwYB1pGRA83ATJnQ2ozgVnmPOzeUbCnsiW29J-~x7CisWmUItbNLWI3sEdtF68Gy~6q4l~Rs~6PDtrlCefWg1weuv~9SUeIyhm8vvM7DdBTfmg8sr8QvK14n0B79wg3J-PGBBfpHuld4opIYIs~iUH-NupNWw1VAMI0Jmw9f7PPiRkB8QqxQ3FAgYzX31LP5qX-ckk0tluDnMhBS9W~6I8DgVdSQkYKA1t3-dOlCA__&Key-Pair-Id=K269JMAT9ZF4GZ align="left")
 
 Rather than fighting context windows or relying on aggressive summarization, you reset cleanly and continue. For longer or multi-phase tasks, this makes a huge difference.
 
@@ -68,7 +68,7 @@ For teams, this changes how AI is used. Conversations become something you can r
 
 Personally, I really like **Amp CLI in free mode**.
 
-![https://s.itman.fyi/Z39qd7DQ](https://media.cleanshot.cloud/media/145969/cbKprzKQ9C7ALYAn4FnC5wLMEGEN79KBbt2ZXy6B.jpeg?Expires=1767616332&Signature=GxAbmuWUMbiNR8DsrmABQHYRcOs7yew5Hup-ArHfYFrnX7oRsqeQgcaDjvlVUsY5HrLXYmJ~GCWAnCEtA3EAt89WquJdavphPMgc6epWAptUBMngXj6ZRBP3lB9cbt93wIfhPoFo8kgOiLKfZB2nzDdoQQOS5ZtLqU6JLYOtr~AsrM8gnLkpARWu3ZkBcFSsuH5pnNf7FjPvKCG0M9F9x1x0DCfXzxrMXMjoMcRgrDXIxYIZdPe7JHFMzn3Jl65o1ps~6UR-f8OmzeUkVr~42hp3vOwxUa0BnLqDh8upCQNPgRa8K6l5umBu0Wv2y~B1pcVSPKfXYHpLUZsfvDOdQg__&Key-Pair-Id=K269JMAT9ZF4GZ align="left")
+![](https://media.cleanshot.cloud/media/145969/cbKprzKQ9C7ALYAn4FnC5wLMEGEN79KBbt2ZXy6B.jpeg?Expires=1767640969&Signature=W2I94Df840ZvzDsOapT2M7gqFfDZWNs-GfyEUQ5obcVCYl3SwVRl7~aompEjnZ-6Qyhk8Kgayyd0cdq4ClPcmoL5J8Gb9k74Y4vrL-HrcksCNysAc49ANn1HdzSZQtlyQCioq4qLCI2c~Xr1Ow~mwM7PMFUV2t34nejyh-FgKdHZq4UbHX8~yopHy-MMHAH83ux9Gxu4Ucsv3kIuWGzZsUvJ~Hv49mg-Q3Ygza5nudkGt8AjnZTgOtMQAPRw~FdlmZ8lG4UzEun1mbWnf9JRzhCRT3f4u-P6KaVyMEHCQUx5~XNX3ThKeuHbiupp0rQDDjo1aI8HUSWRf7nDHt1OfA__&Key-Pair-Id=K269JMAT9ZF4GZ align="left")
 
 It’s extremely accessible. You install it, sign in, and start using it. The ads are subtle and blend quietly into the terminal without disrupting your workflow. Although it is free, the tool remains genuinely useful.
 
