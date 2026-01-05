@@ -9,7 +9,7 @@ tags: ai, amp, agents
 
 In this entry of my **AI DX/Tools** series, I want to discuss [**Amp**](https://ampcode.com/manual)**:** an AI coding agent designed for developers who spend most of their time in the terminal and editor, rather than in chat windows.
 
-![](https://media.cleanshot.cloud/media/145969/u2JLCKjC1p9VpqVaFzmfy46pSrto2aDnSSfMb68y.jpeg?Expires=1767640855&Signature=QFNwsjyYmuPkGwA5xgydwR27Kg7LQZnLyHq~DbGISm7fuqVM2F06Hynfg2PC68xTuzXfsuc7T~JEDZHmvgv~dU-lZtFELfoEz-bWaEGiZsTQGCdJTjILV7RCQgyeciMXFnoaZr5YlJ1DAKHfrnGBoLIKgMPu1Xzj2HSwM-Uimiu6DE3zDHtbrBkWMwMNhTvKoQWQC6Thc-YHZB8MkzExW-VOCbokVwomPIHRiV-iTSZKGIEGJ1MvWeQH0HJp7IBeHBEkUW4oCbalEuWIw9fEdjhN~1mc1nWNet5eDWamkCdorqjZ2~aD14ml5fCpc4uRUxmkOvMG0ADrQOy1niuhiw__&Key-Pair-Id=K269JMAT9ZF4GZ align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1767651435307/28039e9f-bbec-4fb9-963d-0b264637e39d.png align="center")
 
 Amp is free to try, works locally, and integrates directly with your existing workflow. It doesn’t try to impress with flashy UI or novelty features. Instead, it focuses on making AI *usable* for real engineering work.
 
@@ -46,7 +46,7 @@ Anyone who uses AI seriously eventually runs into context problems. Threads get 
 
 Amp’s **/handoff** command is one of its most practical ideas. It allows you to intentionally move work from one thread into a new one, carrying only the relevant context.
 
-![](https://media.cleanshot.cloud/media/145969/L4w48nn2hwYqhXHhAlVexkiJ2SXh5LJJ0hicNED5.jpeg?Expires=1767640913&Signature=RmRpsLLZpnwETBoAAa10v4DGrxtWNL5~5uPtoThJhAo-7uuJ11FqxI0lmRYYmUjTn81F8dha83oYU9AKC5CtGPX3SqlZZFtHsG7VeIXdJKVHLqwYB1pGRA83ATJnQ2ozgVnmPOzeUbCnsiW29J-~x7CisWmUItbNLWI3sEdtF68Gy~6q4l~Rs~6PDtrlCefWg1weuv~9SUeIyhm8vvM7DdBTfmg8sr8QvK14n0B79wg3J-PGBBfpHuld4opIYIs~iUH-NupNWw1VAMI0Jmw9f7PPiRkB8QqxQ3FAgYzX31LP5qX-ckk0tluDnMhBS9W~6I8DgVdSQkYKA1t3-dOlCA__&Key-Pair-Id=K269JMAT9ZF4GZ align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1767651531584/0e1e6f80-2434-40e6-9848-e0c57626d614.png align="center")
 
 Rather than fighting context windows or relying on aggressive summarization, you reset cleanly and continue. For longer or multi-phase tasks, this makes a huge difference.
 
@@ -68,7 +68,7 @@ For teams, this changes how AI is used. Conversations become something you can r
 
 Personally, I really like **Amp CLI in free mode**.
 
-![](https://media.cleanshot.cloud/media/145969/cbKprzKQ9C7ALYAn4FnC5wLMEGEN79KBbt2ZXy6B.jpeg?Expires=1767640969&Signature=W2I94Df840ZvzDsOapT2M7gqFfDZWNs-GfyEUQ5obcVCYl3SwVRl7~aompEjnZ-6Qyhk8Kgayyd0cdq4ClPcmoL5J8Gb9k74Y4vrL-HrcksCNysAc49ANn1HdzSZQtlyQCioq4qLCI2c~Xr1Ow~mwM7PMFUV2t34nejyh-FgKdHZq4UbHX8~yopHy-MMHAH83ux9Gxu4Ucsv3kIuWGzZsUvJ~Hv49mg-Q3Ygza5nudkGt8AjnZTgOtMQAPRw~FdlmZ8lG4UzEun1mbWnf9JRzhCRT3f4u-P6KaVyMEHCQUx5~XNX3ThKeuHbiupp0rQDDjo1aI8HUSWRf7nDHt1OfA__&Key-Pair-Id=K269JMAT9ZF4GZ align="left")
+![](https://media.cleanshot.cloud/media/145969/cbKprzKQ9C7ALYAn4FnC5wLMEGEN79KBbt2ZXy6B.jpeg?Expires=1767673186&Signature=jqS-OLSINf9H7vg~qZMAZ-1sZh7l6UJy8j8QVzt906cxP6p0M09LQ8EaWYx~X0xf6kvLrNjjl2hAWgS8KI4fcDFLO2Vbq8T8xfcSf52VYT27OaA1GUao5qjuR3ruSCJXi9y9hV8PX5q8jj94IqDgOFUrJBVVPvpFCilZdYkchaZYXMFd~2pN4WOSlASoe4mL7gUpbsn0DIAZeavof5KlDsUBBxqhuGjYkucRJQDBx6Z9LD~zAehW7bZQ~hA1dL5jw5M0RxeiZpOWbMcKv2KuYDJXQFrdI5i60zTg5akxORu~sOkfWcjbUmbLdAvqhpizZQ6NBsIhWWfVGdgO81YZNQ__&Key-Pair-Id=K269JMAT9ZF4GZ align="left")
 
 It’s extremely accessible. You install it, sign in, and start using it. The ads are subtle and blend quietly into the terminal without disrupting your workflow. Although it is free, the tool remains genuinely useful.
 
