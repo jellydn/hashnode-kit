@@ -3,15 +3,55 @@ title: "Power-Up #3: OpenCode — Composable AI Agents for Real Coding Workflows
 datePublished: Thu Jan 22 2026 02:18:12 GMT+0000 (Coordinated Universal Time)
 cuid: cmkotoe5e000802jv2q5s4sj2
 slug: power-up-3-opencode-composable-ai-agents-for-real-coding-workflows
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1769048358793/b6ac629e-23fb-45da-b12f-672073702d15.png
 tags: ai, opensource, ai-tools, opencode
 
 ---
 
 After experimenting with [**Amp**](https://blog.productsway.com/power-up-1-amp-opinionated-ai-that-fits-real-developer-workflows) and [**Plannotator**](https://blog.productsway.com/power-up-2-plannotator-visual-plan-review-for-coding-agents), I’ve been spending more time with [**OpenCode**](https://opencode.ai/), and it’s quickly becoming one of the most thoughtfully designed AI coding agents I’ve used.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1769048120461/4db460d0-75ae-4151-8fca-6bf4ef984560.png align="center")
-
 This post focuses on *why OpenCode feels different*, and when you might want to go even further with its experimental fork, [**Shuvcode**](https://github.com/Latitudes-Dev/shuvcode).
+
+## **Surprisingly Good Free Models**
+
+One detail that deserves more attention: **OpenCode ships with genuinely usable free models**.
+
+At the time of writing, free options include:
+
+* opencode/glm-4.7-free
+    
+* opencode/minimax-m2.1-free
+    
+* opencode/big-pickle
+    
+
+These aren’t toy demos. They’re good enough for:
+
+* Exploration and planning
+    
+* Lightweight refactors
+    
+* Reviewing unfamiliar codebases
+    
+
+For many workflows, you can stay productive **without paying anything**, and only switch to premium models when needed. That’s a smart, developer-friendly default.
+
+## **Provider-Agnostic by Design**
+
+OpenCode doesn’t lock you into a single model provider.
+
+You can:
+
+* Use built-in free models
+    
+* Bring your own provider via OpenRouter
+    
+* Plug in OpenAI, Claude, Gemini, GLM, Qwen, and more
+    
+* Switch models based on task, cost, or latency
+    
+
+This flexibility keeps OpenCode future-proof and practical. You optimize for **your constraints**, not the tool’s.
 
 ### **Edge First? Use Shuvcode**
 
@@ -73,25 +113,6 @@ Once a sub-agent finishes, it sends a report back to the parent agent. You can t
 
 This transparency builds trust—and makes debugging AI behavior far easier than black-box systems.
 
-### **Provider-Agnostic by Design**
-
-OpenCode doesn’t lock you into a single model provider.
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1768038239612/fe10b09d-3e2d-4553-bd9e-2b1e9d53b8b1.png align="center")
-
-You can:
-
-* Use built-in free models (there were four at the time of writing)
-    
-* Bring your own provider via OpenRouter
-    
-* Plug in OpenAI, Claude, Gemini, or others
-    
-* Switch models depending on task or cost
-    
-
-This flexibility matters. It keeps OpenCode future-proof, allowing you to optimize for quality, speed, or budget: your choice.
-
 ### **Session Sharing That Respects Privacy**
 
 This is a feature I already appreciated in **Amp**, and OpenCode does it well too.
@@ -118,12 +139,15 @@ That makes it easy to:
 
 For team workflows, this is quietly powerful.
 
-### **Final Thoughts**
+## **Final Thoughts**
 
-OpenCode isn’t trying to be flashy. It’s trying to be *correct*.
+OpenCode isn’t trying to be flashy. It’s trying to be **correct**. The agent model, execution visibility, provider freedom, and thoughtful defaults all point in the same direction:
 
-The agent model, visibility into execution, provider freedom, and thoughtful defaults all point in the same direction: **AI that fits real developer workflows, not demos**.
+**AI that fits real developer workflows, not demos**.
 
-For stability, start with OpenCode. If you want what’s next, explore Shuvcode.
+* If you want stability, start with **OpenCode**.
+    
+* If you want to see what’s next, explore **Shuvcode**.
+    
 
-Either way, this is a strong example of where AI coding tools are heading, and one worth paying attention to.
+Either way, this is a strong signal of where AI coding tools are heading, and one worth paying attention to.
