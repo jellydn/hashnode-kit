@@ -4,6 +4,7 @@ datePublished: Mon Jan 05 2026 01:21:47 GMT+0000 (Coordinated Universal Time)
 cuid: cmk0h6dkh000002l7cs409mmk
 slug: power-up-1-amp-opinionated-ai-that-fits-real-developer-workflows
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1770026337114/69036e0e-9fc6-4f45-9b61-ac06cde90319.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1770029911005/7a284f41-4329-4043-ba1b-4b5bc2ed813d.png
 tags: ai, amp, agents
 
 ---
