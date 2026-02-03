@@ -43,6 +43,7 @@ Global npm packages tend to rot silently. This keeps them current without manual
 
 ```bash
 mise self-update
+mise up
 uv tool update --all
 rustup update
 ```
