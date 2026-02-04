@@ -13,7 +13,7 @@ In the first entry of this series, I discussed [**Amp**](https://blog.productswa
 
 Meet [**Plannotator**](https://plannotator.ai/).
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1767676385399/5d7de27b-21a9-47b3-9a65-e73c673efa1b.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1770207635770/2560a408-dd03-4ab3-aaf5-a60a919bfabf.png align="center")
 
 ## **The Pain: Reviewing AI Plans in the Terminal**
 
@@ -36,7 +36,7 @@ This workflow *technically works*, but it doesnâ€™t scale, especially when youâ€
 
 Plannotator moves plan review **out of the terminal** and into a focused, visual interface.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1767676433249/daff1f99-da41-4bc4-96f3-6640a90847e1.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1770207553053/f220de5d-41b1-4682-b034-be937c6eb410.png align="center")
 
 Instead of replying with paragraphs of text, you can:
 
@@ -51,7 +51,7 @@ Instead of replying with paragraphs of text, you can:
 
 Feedback becomes **precise, contextual, and fast**: much closer to [reviewing a pull request](https://share.plannotator.ai/#hVXbbtw2EP2Vwe6L40QbO0lf_GZ448KojbhJ_NQtoFlqtCKWGrK8aL0o-u_FUNRejAJ9IzlzztzOSH_P3OxmNodng3wDt00DT7ilVhuCnY4dpAFa62FJ5H6maP2KVzyfw68WzYrvPGEkQKgnUA3RQtC9M7rdg7J9bxkaGshY1xNHiBi2AVLQvIHYEfS2Ic9Qp0Gg1uRoz_vYWQaHaosbgh4ZNyTwRQl_Z_seuQkS7YGVSQ2NlvmEfS7YpwMWLtJQrTFQ827FFdQ9bgkacqGGj-WmOUQ0poYKHsbjRCd-U0PO0VVyDUYSzEs-wQmsVBDeQJQhZEHcyUF6rFB1hxLuveVI3MCSHHFDrPQpRcmyaovbabrseglxghopb435H7Y3da9t7KYqkBuYguUCJtblyWCnkRyZjeYolN8Tg09tmx_Ig2UIXn08d6xa_XrmnJuNKVqxHH1b63vMtPf5NOWobFMUK-ijv-pIbSdiCQTvC8domkr5npgnTd46Z7TCqC0fiXziakdrofoR0UfY0RpyQS0qgotDg97DGtWW-FRmAlZGH8F3jw9H8JTDS9RGx_1_tLIj4zK4szvAAbXBtaG8X6PjSPB7wkxgW3jULR3xA_GQ9TYubBpg0D4mNEA8aG9ZRlh2614byos1OmeS43pX8ISa33wkRDAR_YZiSQV-oz0sKegNw5KUDtpyNl0v4PLyJeQURHmEjWTrtLu8vMmPAa6vquurq1doMYhcRH0dBkBYU5QHT8GagfyKPwnbDzJtpSxH1EzNlIfQfUXVlTt0yI3UpWMAu2Nwnjz9lXTQUbbhszDJNvrca4j0GoVCUq3n8zq3mjiG_H1qrEpyKxL5ksHehlA5g1HkBbhDT0whHFhcFurn-rTu8lhnVmd9xHWWQOni11fsnSF4CbjJKqnreo2hW_EcvjFVUfcEgWJyK367zJnibEN31m9bY3fFtwh69HvUHDVvimlayByw5PIgmRyKhm--kQlcLyZNnStCWU9HSXxa5D_L4Vs6HJQLFxLrQ1nJd3kQ4uoTn6j7y_g4TiaTrviXBfykEE_iWr8NEtiTima_4tmHGc5u_vjzn38B) than chatting with a bot.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1767676467353/a2e74822-9a2e-44ba-bac7-ccdb71136642.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1770207682145/b7a74673-0c4b-4509-bb56-320020f34723.png align="center")
 
 ## **Designed for Parallel Agent Work**
 
