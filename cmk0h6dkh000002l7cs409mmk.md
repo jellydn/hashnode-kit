@@ -1,6 +1,6 @@
 ---
 title: "Power-Up #1: Amp — Opinionated AI That Fits Real Developer Workflows"
-datePublished: Mon Jan 05 2026 01:21:47 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-01-05T01:21:47.826Z
 cuid: cmk0h6dkh000002l7cs409mmk
 slug: power-up-1-amp-opinionated-ai-that-fits-real-developer-workflows
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1770026337114/69036e0e-9fc6-4f45-9b61-ac06cde90319.png
