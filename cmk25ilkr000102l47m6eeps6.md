@@ -1,6 +1,6 @@
 ---
 title: "Power-Up #2: Plannotator — Visual Plan Review for Coding Agents"
-datePublished: Tue Jan 06 2026 05:30:55 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-01-06T05:30:55.035Z
 cuid: cmk25ilkr000102l47m6eeps6
 slug: power-up-2-plannotator-visual-plan-review-for-coding-agents
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1770026238870/0e3b6b2b-0e95-44f3-9d67-142fd4d1cdd5.png
