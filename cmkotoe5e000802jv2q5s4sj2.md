@@ -1,6 +1,6 @@
 ---
 title: "Power-Up #3: OpenCode — Composable AI Agents for Real Coding Workflows"
-datePublished: Thu Jan 22 2026 02:18:12 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-01-22T02:18:12.002Z
 cuid: cmkotoe5e000802jv2q5s4sj2
 slug: power-up-3-opencode-composable-ai-agents-for-real-coding-workflows
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1769048358793/b6ac629e-23fb-45da-b12f-672073702d15.png
