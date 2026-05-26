@@ -1,6 +1,6 @@
 ---
 title: "Keep Your Global Dev Tools Fresh"
-datePublished: Tue Feb 03 2026 01:48:26 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-02-03T01:48:26.018Z
 cuid: cml5xwc2q000102l978xyctfl
 slug: keep-your-global-dev-tools-fresh
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/mY9NpmCwwKE/upload/a7752fb3a08bc0d64b85649be457bbf0.jpeg
