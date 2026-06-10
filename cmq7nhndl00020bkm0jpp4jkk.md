@@ -3,6 +3,7 @@ title: "Power-Up #7: Let AI Research Your Code While You Sleep"
 datePublished: 2026-06-10T05:51:08.728Z
 cuid: cmq7nhndl00020bkm0jpp4jkk
 slug: power-up-7-let-ai-research-your-code-while-you-sleep
+cover: https://cdn.hashnode.com/uploads/covers/56ee654dbcca2d711e191e2a/3189a655-b5d7-4ed2-a26f-1954df40b2fb.jpg
 tags: AI
 
 ---
