@@ -44,9 +44,7 @@ The workflow is surprisingly simple:
     
 6.  Revert regressions
     
-7.  Repeat  
-    
-    ![](https://cdn.hashnode.com/uploads/covers/56ee654dbcca2d711e191e2a/babe34e8-1e3a-461b-b43c-9d3c0003ffec.png align="center")
+7.  Repeat
     
 
 The key difference is that the agent is no longer optimizing for "writing code."
@@ -105,6 +103,6 @@ I don't think autoresearch will replace developers.
 
 But I do think it points toward a future where AI agents spend more time experimenting and less time waiting for instructions.
 
-What would you ask an AI agent to optimize in your codebase?  
-  
+What would you ask an AI agent to optimize in your codebase?
+
 #ITMan #AI
