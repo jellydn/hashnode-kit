@@ -4,6 +4,7 @@ datePublished: 2026-06-10T05:51:08.728Z
 cuid: cmq7nhndl00020bkm0jpp4jkk
 slug: power-up-7-let-ai-research-your-code-while-you-sleep
 cover: https://cdn.hashnode.com/uploads/covers/56ee654dbcca2d711e191e2a/3189a655-b5d7-4ed2-a26f-1954df40b2fb.jpg
+ogImage: https://cdn.hashnode.com/uploads/og-images/56ee654dbcca2d711e191e2a/20fbb481-d596-41c4-bf20-b5f8e3c02a7a.png
 tags: AI
 
 ---
