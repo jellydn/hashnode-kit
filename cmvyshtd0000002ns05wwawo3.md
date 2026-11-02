@@ -10,6 +10,8 @@ tags: ai, bot, grok-bot
 
 I use Grok Bot every day. It drafts my posts, watches my Slack, and has its own cloud computer. It's good. But it's a paid, managed service, and I wanted to answer one question for myself:
 
+![](https://cdn.hashnode.com/uploads/covers/56ee654dbcca2d711e191e2a/17750e4b-4802-4673-a21a-d3214babdd1e.png align="center")
+
 **Can I run something similar on my own Mac, with my own models, and still keep a human yes before every write?**
 
 So I started [awesome-bot](https://github.com/jellydn/awesome-bot), a small research repo. Not a ranking. Just notes from actually installing things. This post is the snapshot as of **1 Nov 2026**.
@@ -24,6 +26,8 @@ My daily work is Slack, Gmail, GitHub, and Sentry. So the bar is:
 - Least-privilege OAuth, auditable tool calls, and **approval before any write**.
 
 That last one is non-negotiable. An agent that can post to Slack or send email without asking is not an assistant, it's a liability.
+
+![](https://cdn.hashnode.com/uploads/covers/56ee654dbcca2d711e191e2a/17750e4b-4802-4673-a21a-d3214babdd1e.png align="center")
 
 ## 2\. The shortlist
 
