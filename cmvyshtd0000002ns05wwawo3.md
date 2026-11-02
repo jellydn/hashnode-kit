@@ -4,6 +4,7 @@ datePublished: 2026-11-02T04:59:32.931Z
 cuid: cmvyshtd0000002ns05wwawo3
 slug: looking-for-a-grok-bot-alternative
 cover: https://cdn.hashnode.com/uploads/covers/56ee654dbcca2d711e191e2a/4339bad0-323c-4a32-825a-9a203dcd0db9.jpg
+tags: ai, bot, grok-bot
 
 ---
 
