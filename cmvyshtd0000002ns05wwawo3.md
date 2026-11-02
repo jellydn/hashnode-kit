@@ -29,12 +29,12 @@ That last one is non-negotiable. An agent that can post to Slack or send email w
 
 | Platform | How it runs | License | Status |
 | --- | --- | --- | --- |
-| Grok Bot | Managed | Paid service | Baseline |
-| Rakazo | Hosted from $10/mo, desktop app | Apache-2.0 | Tried, not selected |
-| OpenMausBot | Desktop / VPS / Docker | Apache-2.0 core | **Current trial** |
-| OpenBot (CopilotKit) | Self-host template | MIT | Watching |
-| OpenHuman | Local core, hosted memory from $20/mo | GPL-3.0 | Tried, Free plan dropped |
-| OpenBot.run | Desktop, local-first | PolyForm Noncommercial | Tried, fails approval rule |
+| [Grok Bot](https://x.ai/news/introducing-grok-bot) | Managed | Paid service | Baseline |
+| [Rakazo](https://rakazo.com/) | Hosted from $10/mo, desktop app | Apache-2.0 | Tried, not selected |
+| [OpenMausBot](https://mausbot.com/) | Desktop / VPS / Docker | Apache-2.0 core | **Current trial** |
+| [OpenBot](https://www.copilotkit.ai/openbot) (CopilotKit) | Self-host template | MIT | Watching |
+| [OpenHuman](https://tinyhumans.ai/openhuman) | Local core, hosted memory from $20/mo | GPL-3.0 | Tried, Free plan dropped |
+| [OpenBot.run](https://openbot.run/) | Desktop, local-first | PolyForm Noncommercial | Tried, fails approval rule |
 
 ## 3\. Rakazo: nice pitch, broke on install
 
