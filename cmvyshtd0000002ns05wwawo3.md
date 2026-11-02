@@ -10,8 +10,6 @@ tags: ai, bot, grok-bot
 
 I use Grok Bot every day. It drafts my posts, watches my Slack, and has its own cloud computer. It's good. But it's a paid, managed service, and I wanted to answer one question for myself:
 
-![](https://cdn.hashnode.com/uploads/covers/56ee654dbcca2d711e191e2a/17750e4b-4802-4673-a21a-d3214babdd1e.png align="center")
-
 **Can I run something similar on my own Mac, with my own models, and still keep a human yes before every write?**
 
 So I started [awesome-bot](https://github.com/jellydn/awesome-bot), a small research repo. Not a ranking. Just notes from actually installing things. This post is the snapshot as of **1 Nov 2026**.
@@ -73,6 +71,8 @@ My setup:
 - Harness on `127.0.0.1:8799`, Vite UI on `5199`, Electron off.
 - One `just up` starts both and opens a Cloudflare tunnel to `bot.itman.fyi`.
 - A remote browser must **pair** with a code before it can call the API.
+
+  ![](https://cdn.hashnode.com/uploads/covers/56ee654dbcca2d711e191e2a/e51878b7-800b-432f-84d7-cb68b91f0784.png align="left")
 
 One gotcha that cost me time: don't rewrite the Host header in the tunnel. If you do, the same-origin check fails with `forbidden: cross-origin request`.
 
